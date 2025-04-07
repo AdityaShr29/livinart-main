@@ -2008,7 +2008,7 @@ header .header-top .header-info-right ul li i {
 /*----------------------------------------*/
 .banner-area {
     background-color: var(--theme-color);
-    background-image: url(./img/banner/bg-img.png);
+    background-image: url(./images/banner/bg-img-2.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -4200,7 +4200,7 @@ body.body_dark {
     height: 100%;
 }
 
-@media (max-width: 596px) {
+/* @media (max-width: 596px) {
     .app-showcase-item {
         border-radius: 16px;
         background: #dbecff;
@@ -4211,7 +4211,7 @@ body.body_dark {
         margin-bottom: 30px;
         height: 100%;
     }
-}
+} */
 
 .app-showcase-item .round {
     width: 670px;

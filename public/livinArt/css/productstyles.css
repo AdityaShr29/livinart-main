@@ -60,6 +60,13 @@ div {
     align-items: self-start;
 }
 
+@media (max-width: 786px){
+
+    .header-wrapper{
+        height: 90vh;
+    }
+}
+
 .header-bg-img{
     width: 100%;
     height: 100%;
@@ -546,7 +553,7 @@ div {
 
     .products-wrapper {
         padding-inline: 0rem;
-        top: 5rem;
+        top: 1rem;
     }
 
     .img-text {
@@ -826,7 +833,7 @@ div {
 
 .products-help-container{
     position: relative !important;
-    margin-top: 8rem;
+    margin-top: 6rem;
     /* pt-125 pb-140  */
     /* padding-block: 125px 140px; */
 }
