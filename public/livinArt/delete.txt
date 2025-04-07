@@ -1,0 +1,92 @@
+
+     
+    box-shadow: -100px 0 0px var(--grid-workaround-shadow), 
+                100px 0 0px var(--grid-workaround-shadow);
+     
+     
+     
+     
+      <!-- Get In Touch start -->
+      <section class="pt-140 pb-140 get-touch-area bg_white">
+        <div class="container">
+          <div class="row gy-4 gy-lg-0">
+            <div class="col-lg-5">
+              <div class="section-title text-start">
+                <h2>Get Know More About Livin QR.</h2>
+                <p class="my-3">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
+                  tempora vitae et cupiditate? Consectetur maiores architecto
+                  voluptates ipsam iusto, maxime placeat! Ipsum quis libero
+                  cumque odio, vero accusamus consequatur eveniet. Ad,
+                  voluptatem iste voluptate totam eaque ratione magni
+                  dignissimos sint nemo beatae eligendi earum quaerat quod
+                  obcaecati deserunt soluta harum!
+                </p>
+                <p class="my-3">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
+                  rem repellendus omnis vero! Doloremque laboriosam voluptatem
+                  impedit! Officia odio in, laudantium nulla deserunt provident
+                  vero nisi voluptas rem reprehenderit explicabo voluptate ipsam
+                  adipisci? Sed voluptatibus voluptate nemo assumenda eius quia
+                  quidem explicabo sit magni esse vitae, nulla, blanditiis sunt,
+                  exercitationem doloribus odio cum. Officiis incidunt in
+                  perspiciatis aspernatur iusto doloremque!
+                </p>
+              </div>
+            </div>
+            <div class="col-lg-6 offset-lg-1">
+              <div
+                class="contact-form-widget d-flex align-items-center justify-content-center"
+              >
+                <img
+                  class="h-100 w-100 object-fit-cover rounded"
+                  src="/img/livinqr/qr.jpg"
+                  alt=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+     
+
+
+      <div class="row mb-60 gy-lg-0 gy-4">
+            <div class="col-lg-4" data-wow-delay="0.2s">
+              <div
+                class="feature-card-widget-4 wow fadeInUp h-100 w-100"
+                data-wow-delay="0.1s"
+              >
+                <img
+                  class="h-100 w-100 object-fit-cover rounded"
+                  src="img/livinqr/verti.jpg"
+                  alt="icon"
+                />
+              </div>
+            </div>
+            <div class="col-lg-4" data-wow-delay="0.3s">
+              <div
+                clas
+                class="feature-card-widget-4 wow fadeInUp h-100 w-100"
+                data-wow-delay="0.3s"
+              >
+                <img
+                  class="h-100 w-100 object-fit-cover rounded"
+                  src="img/livinqr/without-logo.png"
+                  alt="icon"
+                />
+              </div>
+            </div>
+            <div class="col-lg-4" data-wow-delay="0.5s">
+              <div
+                class="feature-card-widget-4 wow fadeInUp h-100 w-100"
+                data-wow-delay="0.5s"
+              >
+                <img
+                  class="h-100 w-100 object-fit-cover rounded"
+                  src="img/livinqr/icon.jpg"
+                  alt="icon"
+                />
+              </div>
+            </div>
+          </div>
